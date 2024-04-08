@@ -1,0 +1,2 @@
+# vkmeans
+A vanilla KMeans 
